@@ -1,3 +1,5 @@
 This file is created by Java branch
 
 New contents added by main branch
+
+Some new message added...
